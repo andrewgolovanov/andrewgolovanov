@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **andrewgolovanov/andrewgolovanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewgolovanov&count_private=true&show_icons=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api?username=andrewgolovanov&count_private=true&show_icons=true&theme=buefy)
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrewgolovanov&theme=buefy)
+
