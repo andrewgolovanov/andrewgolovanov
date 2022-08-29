@@ -1,6 +1,7 @@
 <img style="display:inline-block;" height="100px" src="https://media2.giphy.com/media/9K8hrdgquxN2HJjmjf/giphy.gif?cid=790b761102e3f1be284e6b8b2c441732b8580740ba823349&rid=giphy.gif&ct=s"/>
 
 <p align="center">
+<!-- Work From Home Rock GIF By Ankita Thakur - https://giphy.com/unkita -->
   <img height="250px" src="images/rock.gif"/>
 </p>
 
