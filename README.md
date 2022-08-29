@@ -1,11 +1,11 @@
-<img style="display:inline-block;" height="100px" src="https://media2.giphy.com/media/9K8hrdgquxN2HJjmjf/giphy.gif?cid=790b761102e3f1be284e6b8b2c441732b8580740ba823349&rid=giphy.gif&ct=s"/> 
+<img style="display:inline-block;" height="100px" src="https://media2.giphy.com/media/9K8hrdgquxN2HJjmjf/giphy.gif?cid=790b761102e3f1be284e6b8b2c441732b8580740ba823349&rid=giphy.gif&ct=s"/>
 
 <p align="center">
-<img height="250px" src="https://media4.giphy.com/media/SS2KoPSaTmqzIuZZWm/giphy.gif?cid=790b761191a10f8f4bcf07f7186610c4a4e4a137457c2f7e&rid=giphy.gif&ct=g"/>
-</p> 
+  <img height="250px" src="images/rock.gif"/>
+</p>
+
 <!--
 ### Hi there 👋
-
 
 **andrewgolovanov/andrewgolovanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
