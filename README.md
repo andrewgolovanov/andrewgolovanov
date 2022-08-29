@@ -1,6 +1,12 @@
+<img style="display:inline-block;" height="100px" src="https://media2.giphy.com/media/9K8hrdgquxN2HJjmjf/giphy.gif?cid=790b761102e3f1be284e6b8b2c441732b8580740ba823349&rid=giphy.gif&ct=s"/> 
+
+<p align="center">
+<img height="250px" src="https://media4.giphy.com/media/SS2KoPSaTmqzIuZZWm/giphy.gif?cid=790b761191a10f8f4bcf07f7186610c4a4e4a137457c2f7e&rid=giphy.gif&ct=g"/>
+</p> 
+<!--
 ### Hi there 👋
 
-<!--
+
 **andrewgolovanov/andrewgolovanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,8 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div>
   <img height="154" src="https://github-readme-stats.vercel.app/api?username=andrewgolovanov&show_icons=true&theme=react&count_private=true&hide=contribs" />
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgolovanov&layout=compact&theme=react&hide=php&langs_count=6" />
 </div>
+-->
